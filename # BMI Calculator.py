@@ -1,8 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
-#BMI_CALCULATOR
-
+# BMI Calculator
 Height=float(input("How tall are u?(in cm): "))
 Weight=float(input("How much force earth exerts on u?(in kg): "))
 Height = Height/100
